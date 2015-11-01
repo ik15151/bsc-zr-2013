@@ -1,8 +1,10 @@
 # BSc-ZR-2013
 
-**Studijska godina:** 2012/2013
-
 **Tema:** Objektno orijentisana analiza i dizajn aplikacije za praćenje prihoda i rashoda iznajmljivanja nekretnina primjenom UML notacije
+
+**Oblast:** Objektno orijentisana analiza i dizajn (OOAD)
+
+**Vrsta aplikacije:** Desktop (Windows OS)
 
 **Programski jezik:** C#
 
@@ -10,6 +12,7 @@
 
 **Baza:** MySQL
 
+**Godina:** 2013
 
 ---
 
