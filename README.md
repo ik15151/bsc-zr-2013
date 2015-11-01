@@ -1,6 +1,4 @@
-# BSc-ZR-2013
-
-**Tema:** Objektno orijentisana analiza i dizajn aplikacije za praćenje prihoda i rashoda iznajmljivanja nekretnina primjenom UML notacije
+# **Tema:** Objektno orijentisana analiza i dizajn aplikacije za praćenje prihoda i rashoda iznajmljivanja nekretnina primjenom UML notacije
 
 **Oblast:** Objektno orijentisana analiza i dizajn (OOAD)
 
@@ -13,6 +11,8 @@
 **Baza:** MySQL
 
 **Godina:** 2013
+
+*Samostalan rad*
 
 ---
 
