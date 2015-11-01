@@ -1,4 +1,4 @@
-# **Tema:** Objektno orijentisana analiza i dizajn aplikacije za praćenje prihoda i rashoda iznajmljivanja nekretnina primjenom UML notacije
+# Objektno orijentisana analiza i dizajn aplikacije za praćenje prihoda i rashoda iznajmljivanja nekretnina primjenom UML notacije
 
 **Oblast:** Objektno orijentisana analiza i dizajn (OOAD)
 
